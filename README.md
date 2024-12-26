@@ -32,7 +32,7 @@ Explore these hands-on notebooks in Google Colab:
 3. **Advanced GIS Analysis**
   - Spatial operations and analysis
   - Real-world GIS applications
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/Python-Basics-for-GIS/blob/main/notebooks/03-Intro-to-GeoData.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/python-gis-basics/blob/main/notebooks/03_Intro_To_Geodata.ipynb)
 
 ## Getting Started 🚀
 1. Click any "Open in Colab" badge above to start immediately
