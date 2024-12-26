@@ -27,7 +27,7 @@ Explore these hands-on notebooks in Google Colab:
 2. **Working with Spatial Data**
   - Introduction to pandas and GeoPandas
   - Data cleaning and preparation for GIS
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/Python-Basics-for-GIS/blob/main/notebooks/02-Working-with-Data.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/python-gis-basics/blob/main/notebooks/02_Working_With_Data.ipynb)
 
 3. **Advanced GIS Analysis**
   - Spatial operations and analysis
