@@ -22,7 +22,7 @@ Explore these hands-on notebooks in Google Colab:
 1. **Introduction to Python for GIS**
   - Basic Python concepts with spatial applications
   - First steps in spatial thinking
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/Python-Basics-for-GIS/blob/main/notebooks/01-Intro-to-Python.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/oechenique/python-gis-basics/blob/main/notebooks/01_Intro_To_Python_Gis.ipynb)
 
 2. **Working with Spatial Data**
   - Introduction to pandas and GeoPandas
