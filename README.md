@@ -40,13 +40,18 @@ Explore these hands-on notebooks in Google Colab:
 3. Save your work to Google Drive to keep your progress
 
 ## Required Libraries
-The notebooks use these key Python packages:
-- pandas==2.0.0
-- geopandas==0.13.0
-- folium==0.14.0
-- matplotlib==3.7.1
-- numpy==1.24.3
+The notebooks use these key Python packages (ensure you have these or newer versions installed):
 
+- **pandas**: `>=3.0.0`
+- **geopandas**: `>=0.14.4`
+- **folium**: `>=0.18.0`
+- **matplotlib**: `>=3.8.0`
+- **numpy**: `>=2.0.0`
+
+To update these packages, you can run:
+```python
+pip install --upgrade pandas geopandas folium matplotlib numpy
+```
 ## Let's Connect! 一緒に学びましょう 🌐
 
 [![Twitter Badge](https://img.shields.io/badge/-@GastonEchenique-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/GastonEchenique)](https://x.com/GastonEchenique)
